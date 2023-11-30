@@ -11,6 +11,6 @@
   },
   "license": "ISC",
   "scripts": {
-    "start": "npm run build"
+    "start": "npm start"
   }
 }
